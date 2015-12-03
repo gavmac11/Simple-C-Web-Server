@@ -1,0 +1,5 @@
+image/gif					gif
+image/jpeg					jpeg jpg jpe
+text/html					html htm
+text/parityfec
+text/plain					txt text conf def list log in
